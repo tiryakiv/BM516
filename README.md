@@ -1,7 +1,7 @@
 # Biyomedikal Görüntü İşleme dersi sayfası
 Siirt Üniversitesi Bilgisayar Mühendisliği Anabilim Dalı BM516 Biyomedikal Görüntü İşleme dersi sayfası
 
-Biyomedikal Görüntü İşleme dersi projeler hakkında bilgi almak için üstte bulunan pdf dokümanı inceleyiniz.
+Biyomedikal Görüntü İşleme dersi projesi hakkında bilgi almak için üstte bulunan pdf dokümanı inceleyiniz.
 
 Matlab'da öğrenme transferi yöntemi: 
 https://www.youtube.com/watch?v=NQjoaptSEoo&t=75s
@@ -17,6 +17,7 @@ https://www.youtube.com/watch?v=6GivIxMCZfU
 
 https://www.youtube.com/watch?v=Kb1LRpkLAiI&list=PLi7vCu7jEp8_nFoyZ-8exq5UYW_CAZ6zM
 
+https://www.youtube.com/watch?v=Ijc-9L2iXEc&list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW
 
 2) GitHub sayfaları
 
