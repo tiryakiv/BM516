@@ -3,11 +3,23 @@ Siirt Üniversitesi Bilgisayar Mühendisliği Anabilim Dalı BM516 Biyomedikal G
 
 Biyomedikal Görüntü İşleme dersi projesi hakkında bilgi almak için üstte bulunan pdf dokümanı inceleyiniz.
 
+Projenizde kullanacağınız verisetlerini aşağıdaki websitelerinden indirebilirsiniz:
+
+www.mendeley.com
+www.zenodo.org
+www.cancerimagingarchive.net
+www.kaggle.com
+
+
 Matlab'da öğrenme transferi yöntemi: 
 https://www.youtube.com/watch?v=NQjoaptSEoo&t=75s
 
 Python'da derin öğrenme ile görüntü sınıflandırma örneği:
 https://pythonprogramming.net/convolutional-neural-network-kats-vs-dogs-machine-learning-tutorial/
+
+Uzaktan erişim ücretsiz hesaplama kaynakları:
+www.kaggle.com
+https://research.google.com/colaboratory/
 
 
 Bu ders için diğer yardımcı kaynaklar listesi:
