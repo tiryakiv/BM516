@@ -1,5 +1,5 @@
-# BM516  Siirt Üniversitesi Bilgisayar Mühendisliği Anabilim Dalı Biyomedikal Görüntü İşleme dersi sayfası
-
+# Biyomedikal Görüntü İşleme dersi sayfası
+Siirt Üniversitesi Bilgisayar Mühendisliği Anabilim Dalı BM516 Biyomedikal Görüntü İşleme dersi sayfası
 
 
 Matlab'da öğrenme transferi yöntemi: 
