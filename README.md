@@ -6,11 +6,8 @@ Biyomedikal Görüntü İşleme dersi projesi hakkında bilgi almak için üstte
 Projenizde kullanacağınız verisetlerini aşağıdaki websitelerinden indirebilirsiniz:
 
 www.mendeley.com
-
 www.zenodo.org
-
 www.cancerimagingarchive.net
-
 www.kaggle.com
 
 
@@ -22,7 +19,6 @@ https://pythonprogramming.net/convolutional-neural-network-kats-vs-dogs-machine-
 
 Uzaktan erişim ücretsiz hesaplama kaynakları:
 www.kaggle.com
-
 https://research.google.com/colaboratory/
 
 
