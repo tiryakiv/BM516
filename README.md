@@ -1,2 +1,4 @@
 # BM516
-Biyomedikal Görüntü İşleme
+Siirt Üniversitesi Bilgisayar Mühendisliği Anabilim Dalı Biyomedikal Görüntü İşleme dersi sayfası
+
+
