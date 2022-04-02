@@ -13,6 +13,10 @@ www.cancerimagingarchive.net
 
 www.kaggle.com
 
+www.rsna.org
+
+https://stanfordmlgroup.github.io/
+
 
 Matlab'da öğrenme transferi yöntemi: 
 https://www.youtube.com/watch?v=NQjoaptSEoo&t=75s
