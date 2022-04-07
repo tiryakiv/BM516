@@ -35,7 +35,7 @@ Bu ders için diğer yardımcı kaynaklar listesi:
 
 https://www.youtube.com/watch?v=6GivIxMCZfU
 
-https://www.youtube.com/watch?v=Kb1LRpkLAiI&list=PLi7vCu7jEp8_nFoyZ-8exq5UYW_CAZ6zM
+Medical Image Analysis sayfası: https://www.youtube.com/watch?v=Kb1LRpkLAiI&list=PLi7vCu7jEp8_nFoyZ-8exq5UYW_CAZ6zM
 
 https://www.youtube.com/watch?v=Ijc-9L2iXEc&list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW
 
