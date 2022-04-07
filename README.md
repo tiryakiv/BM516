@@ -33,7 +33,7 @@ https://research.google.com/colaboratory/
 Bu ders için diğer yardımcı kaynaklar listesi:
 1) YouTube linkler
 
-https://www.youtube.com/watch?v=6GivIxMCZfU
+Python for Microscopists: https://www.youtube.com/watch?v=6GivIxMCZfU
 
 Medical Image Analysis sayfası: https://www.youtube.com/watch?v=Kb1LRpkLAiI&list=PLi7vCu7jEp8_nFoyZ-8exq5UYW_CAZ6zM
 
