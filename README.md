@@ -35,7 +35,7 @@ Bu ders için diğer yardımcı kaynaklar listesi:
 
 Radiomics: https://www.youtube.com/watch?v=6GivIxMCZfU
 
-Medical Image Analysis sayfası: https://www.youtube.com/watch?v=Kb1LRpkLAiI&list=PLi7vCu7jEp8_nFoyZ-8exq5UYW_CAZ6zM
+Prof. Debdoot Sheet'in Medical Image Analysis sayfası: https://www.youtube.com/watch?v=Kb1LRpkLAiI&list=PLi7vCu7jEp8_nFoyZ-8exq5UYW_CAZ6zM
 
 Python for Microscopists: https://www.youtube.com/watch?v=Ijc-9L2iXEc&list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW
 
