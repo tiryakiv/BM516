@@ -30,7 +30,7 @@ www.kaggle.com
 https://research.google.com/colaboratory/
 
 
-Bu ders için diğer yardımcı kaynaklar listesi:
+# Bu ders için diğer yardımcı kaynaklar listesi:
 1) YouTube linkler
 
 Radiomics: https://www.youtube.com/watch?v=6GivIxMCZfU
