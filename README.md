@@ -33,12 +33,12 @@ https://research.google.com/colaboratory/
 # Bu ders için diğer yardımcı kaynaklar listesi:
 1) YouTube linkler
 
-Radiomics: https://www.youtube.com/watch?v=6GivIxMCZfU
+  Radiomics: https://www.youtube.com/watch?v=6GivIxMCZfU
 
-Prof. Debdoot Sheet'in Medical Image Analysis sayfası: https://www.youtube.com/watch?v=Kb1LRpkLAiI&list=PLi7vCu7jEp8_nFoyZ-8exq5UYW_CAZ6zM
+  Prof. Debdoot Sheet'in Medical Image Analysis sayfası: https://www.youtube.com/watch?v=Kb1LRpkLAiI&list=PLi7vCu7jEp8_nFoyZ-8exq5UYW_CAZ6zM
 
-Python for Microscopists: https://www.youtube.com/watch?v=Ijc-9L2iXEc&list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW
+  Python for Microscopists: https://www.youtube.com/watch?v=Ijc-9L2iXEc&list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW
 
 2) GitHub sayfaları
 
-https://github.com/escuccim/mammography-models
+  https://github.com/escuccim/mammography-models
